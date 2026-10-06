@@ -1,4 +1,4 @@
-# ==================== STANDARD IMPORTS ====================
+I'm# ==================== STANDARD IMPORTS ====================
 import sys
 import asyncio
 import httpx
@@ -35,7 +35,7 @@ from dashboard_server import bot_state, start_web_dashboard
 
 # ==================== CONFIGURATION ====================
 WEB_HOST = "0.0.0.0"
-WEB_PORT = int(os.environ.get("PORT", 5000))
+WEB_PORT = int(os.environ.get("PORT", 8080))
 ACCOUNTS_FILE = "accounts.json"
 USERS_FILE = "users.json"
 TOKEN_CACHE_FILE = "token_cache.json"
