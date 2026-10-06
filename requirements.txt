@@ -3,7 +3,7 @@ aiohttp==3.9.5
 requests==2.32.0
 pycryptodome==3.20.0
 protobuf==4.25.3
-protobuf-decoder==0.1.5
+protobuf-decoder==0.4.0
 google-play-scraper==1.2.7
 flask==3.0.3
 flask-cors==4.0.1
